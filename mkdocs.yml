@@ -1,4 +1,7 @@
 site_name: palazzetti.dev
 site_url: https://palazzetti.dev/
 theme: slate
-plugins:
+nav:
+    - Home: index.md
+    - LinkedIn: https://www.linkedin.com/in/matthewpalazzetti/
+plugins: []
