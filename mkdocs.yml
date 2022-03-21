@@ -1,0 +1,4 @@
+site_name: palazzetti.dev
+site_url: https://palazzetti.dev/
+theme: slate
+plugins:

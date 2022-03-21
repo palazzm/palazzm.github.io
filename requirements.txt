@@ -1,0 +1,4 @@
+mkdocs
+mkdocs-bootswatch
+pymdown-extensions
+mkdocs-video
